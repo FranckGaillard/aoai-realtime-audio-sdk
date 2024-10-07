@@ -398,5 +398,5 @@ FodyWeavers.xsd
 *.sln.iml
 
 # Binary archives
-*.tgz
+#*.tgz
 *.zip
